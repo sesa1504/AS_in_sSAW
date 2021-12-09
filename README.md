@@ -7,21 +7,8 @@ DOI: tba
 Please cite as:
 
 @article{10.1088/1361-6501/ab7bfd,
-
 	author={Sebastian Sachs and Christian Cierpka and Jörg König},
-	
 	title={On the acoustically induced fluid flow in particle separation systems employing standing surface acoustic waves – Part I.},
-	
 	journal={Lab on a Chip},
-	
 	year={2022}
-	
-}
-
-@article{10.1088/1361-6501/ab7bfd,
-	author={Jörg König and Minqian Chen and Wiebke Rösing and David Boho and Patrick Mäder and Christian Cierpka},
-	title={On the use of a cascaded convolutional neural network for three-dimensional flow measurements using astigmatic PTV},
-	journal={Measurement Science and Technology},
-	url={http://iopscience.iop.org/10.1088/1361-6501/ab7bfd},
-	year={2020}
 }
