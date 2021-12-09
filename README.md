@@ -1,6 +1,6 @@
 # Acoustic streaming in a standing surface acoustic wave field
 
-Experimentally and numerically obtained velocity fields as described in our paper: "On the acoustically induced fluid flow in particle separation systems employing standing surface acoustic waves – Part I."
+Experimentally and numerically obtained velocity fields as described in our paper: "On the acoustically induced fluid flow in particle separation systems employing standing surface acoustic waves – Part I".
 
 DOI: tba
 
