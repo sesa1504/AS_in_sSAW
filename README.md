@@ -6,7 +6,7 @@ DOI: tba
 
 Please cite as:
 
-@article{10.1088/1361-6501/ab7bfd, \\
+@article{10.1088/1361-6501/ab7bfd, <br />
 	author={Sebastian Sachs and Christian Cierpka and Jörg König},
 	title={On the acoustically induced fluid flow in particle separation systems employing standing surface acoustic waves – Part I.},
 	journal={Lab on a Chip},
